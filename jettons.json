@@ -13573,6 +13573,11 @@
   "symbol": "GOY"
  },
  {
+  "address": "0:0a040d7ffb058fdf53236c5a7e0a253b45962c51eb645681d31d3b98811f0a86",
+  "name": "GRAMCAT",
+  "symbol": "GRAMCAT"
+ },
+ {
   "address": "0:3a6fda7720bc0b91c2a23ab6be05ed578d946d41613930f0698d92edb8647195",
   "name": "Official Gram mascot",
   "symbol": "GRAMIO"
@@ -13601,6 +13606,11 @@
   "address": "0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198",
   "name": "Grm",
   "symbol": "GRM"
+ },
+ {
+  "address": "0:3acc8ecc0284249f41f02be0e5cda661dd6a9083ea6c14c40d82a6ebaa18d6b5",
+  "name": "Grumpy Cat",
+  "symbol": "GRUMPY"
  },
  {
   "address": "0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2",
