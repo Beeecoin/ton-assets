@@ -517,6 +517,9 @@
 - address: 0:0a040d7ffb058fdf53236c5a7e0a253b45962c51eb645681d31d3b98811f0a86
   name: GRAMCAT
   symbol: GRAMCAT
+- address: 0:3a947da42809cdd67d6e0d962411467675f084454fabca6feeaf7155f5aec22d
+  name: Gram god. In GRAM we trust.
+  symbol: GRAMGOD
 - address: 0:3a6fda7720bc0b91c2a23ab6be05ed578d946d41613930f0698d92edb8647195
   name: Official Gram mascot
   symbol: GRAMIO
@@ -541,6 +544,9 @@
 - address: 0:3acc8ecc0284249f41f02be0e5cda661dd6a9083ea6c14c40d82a6ebaa18d6b5
   name: Grumpy Cat
   symbol: GRUMPY
+- address: 0:3aa19a9f9e0a636d79fb4897418c8604a0ec6dfcdbac3f850b602540b90c86eb
+  name: GRAMX6900
+  symbol: GRX6900
 - address: 0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2
   name: Gold Standard
   symbol: GSTD
@@ -745,6 +751,9 @@
 - address: 0:3afca4dc64e4487af778cf0f462469a96962abcdd8b1a1df09d5f59f9b8afb63
   name: Make Gram Great Again
   symbol: MGGA
+- address: 0:2dbc9382d8ee1e1d6799a59753a8a281ce5df37da9387cc4ef3e1c38389f681b
+  name: Make GIFTS Great Again
+  symbol: MGIFTSGA
 - address: 0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5
   name: Microdiving
   symbol: MIC
