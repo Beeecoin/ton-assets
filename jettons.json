@@ -13623,6 +13623,11 @@
   "symbol": "GRAMIO"
  },
  {
+  "address": "0:26b1820069d3d0ac49fec19ad12b0aa19d178b0ce78a97d4fbd2e9ae934300d5",
+  "name": "gramming",
+  "symbol": "GRAMMING"
+ },
+ {
   "address": "0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b",
   "name": "GRAM SEASON",
   "symbol": "GRAMSEASON"
@@ -15166,6 +15171,11 @@
   "address": "0:577f9d659e6a7a0298d0edd5978f8ff4af7a55f35da40d8b962a9d20af5eb810",
   "name": "Utya Strategy",
   "symbol": "USTR"
+ },
+ {
+  "address": "0:3ad4eef5cb823ca190d746f30eac7b6e6f6bf170f239e1fd68180fdee21d092f",
+  "name": "Utia the duck",
+  "symbol": "UTIA"
  },
  {
   "address": "0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d",
