@@ -15738,6 +15738,11 @@
   "symbol": "DUROV"
  },
  {
+  "address": "0:26055e4b56c7ca4d4761410233de339e3edb80f4124babb0b546e8b4f36bf469",
+  "name": "EAGLE",
+  "symbol": "EAGLE"
+ },
+ {
   "address": "0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401",
   "name": "Earnigram",
   "symbol": "EARNI"
@@ -16861,6 +16866,11 @@
   "address": "0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832",
   "name": "Mintless Points",
   "symbol": "Points"
+ },
+ {
+  "address": "0:2659d5b31b87ee051cbf7acba6ec09e8a59693c5c9a61f7268a038abf68ca41a",
+  "name": "QUBY",
+  "symbol": "QUBY"
  },
  {
   "address": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
