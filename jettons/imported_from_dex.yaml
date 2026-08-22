@@ -1081,6 +1081,9 @@
 - address: 0:f0dafd2fab4692e0be8f5f56613da25423ee6363f57a3e27214a98ab55fe737d
   name: FredThePug
   symbol: PUG
+- address: 0:708b17ac52285ebf673cc1619a47d070394fe68d4f88d80d8c230f6ca0238954
+  name: Just pump it
+  symbol: PUMP
 - address: 0:213dca727e486fd8c3d4c589b7ee0f8d8d9a41ae9fa13be5c4a4e56480e2c013
   name: Pun Dog
   symbol: PUN
